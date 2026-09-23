@@ -23,7 +23,10 @@ Traditional solutions often rely on integrated circuits or microcontrollers, whi
 
 |---------|---------|--------------| 
 
-|   0     |    0    |      0       | |   0     |    1    |      0       | |   1     |    0    |      0       | |   1     |    1    |      1       | 
+|   0     |    0    |      0       | 
+|   0     |    1    |      0       |
+|   1     |    0    |      0       | 
+|   1     |    1    |      1       | 
 
  📌 Components Used 
 
